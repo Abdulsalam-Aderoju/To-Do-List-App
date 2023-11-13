@@ -19,7 +19,7 @@ Greetings! and welcome to my inaugural venture into API development! I'm thrille
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Abdulsalam-Aderoju/To-Do-List-App.git
    ```
 
 2. Install dependencies:
