@@ -1,5 +1,5 @@
 # To-Do-List-App
-My First API Project
+My First API Development Project
 
 
 Greetings! and welcome to my inaugural venture into API development! I'm thrilled to introduce my first project, The To-Do List App, a project born from the simplicity of Google Tasks and brought to life through the dynamic duo of FastAPI and MySQL.
